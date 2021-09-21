@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: orangered;
+  padding:  1em;
+  border-style: solid;
+  border-color: orangered;
+  border-width: 3px;
+}
+
+.Main{
+  text-align: center;
+  background-color: orangered;
+  color: black;
+  border-radius: 10px;
+  padding: 1em;
+}
+.InfoBox {
+  text-align: left;
+  color: orangered;
+  background-color: black;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  padding: 0;
+}
+
+button{
+  color: orangered;
+  background-color: black;
+  border-radius: 5px;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+@media screen and (max-width: 600px) {
+  .App {
+  width: 100%;
+  }
+  }
+
+body{
+  background-color: silver;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
