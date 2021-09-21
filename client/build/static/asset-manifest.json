@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MangoStake/static/css/main.8e2814c5.chunk.css",
+    "main.js": "/MangoStake/static/js/main.fe3af8f8.chunk.js",
+    "main.js.map": "/MangoStake/static/js/main.fe3af8f8.chunk.js.map",
+    "runtime-main.js": "/MangoStake/static/js/runtime-main.d2092b26.js",
+    "runtime-main.js.map": "/MangoStake/static/js/runtime-main.d2092b26.js.map",
+    "static/js/2.900e61a4.chunk.js": "/MangoStake/static/js/2.900e61a4.chunk.js",
+    "static/js/2.900e61a4.chunk.js.map": "/MangoStake/static/js/2.900e61a4.chunk.js.map",
+    "index.html": "/MangoStake/index.html",
+    "precache-manifest.963fd7ce2da22007fc321b0f719a620d.js": "/MangoStake/precache-manifest.963fd7ce2da22007fc321b0f719a620d.js",
+    "service-worker.js": "/MangoStake/service-worker.js",
+    "static/css/main.8e2814c5.chunk.css.map": "/MangoStake/static/css/main.8e2814c5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2092b26.js",
+    "static/js/2.900e61a4.chunk.js",
+    "static/css/main.8e2814c5.chunk.css",
+    "static/js/main.fe3af8f8.chunk.js"
+  ]
+}
