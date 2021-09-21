@@ -1,6 +1,6 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const path = require("path");
-const mnemonic = "comic wonder member caution insect goat metal above blanket reward game close";
+const mnemonic = "SECRET";
 
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
