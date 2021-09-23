@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MangoStake/precache-manifest.963fd7ce2da22007fc321b0f719a620d.js"
+  "/MangoStake/precache-manifest.d7af643c7e575e335e82444f09e96249.js"
 );
 
 self.addEventListener('message', (event) => {
