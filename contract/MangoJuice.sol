@@ -62,13 +62,10 @@ contract MangoJuice is ERC20, Owned {
     }
     
     //Modifiers for the interest in reward calculations
-    function setRewardInterval(uint _newInterval) public onlyOwner {
-        rewardInterval = _newInterval;
-    }
-    
-    function setInterestRate(uint _newRate) public onlyOwner {
+    function setInterest_Interval(uint _newRate, uint _newInterval) public onlyOwner {
         interestRate = _newRate;
-        emit RateChanged(_newRate);
+        rewardInterval = _newInterval * 60;
+        emit RateChanged(_newRate); 
     }
 
 
