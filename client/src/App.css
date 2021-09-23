@@ -63,3 +63,15 @@ body{
   justify-content: center;
   padding: 1em;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .App{
+    width: 100%;
+  }
+  .container{
+    width: 100%;
+  }
+  p{
+    font-size: small;
+  }
+  }
